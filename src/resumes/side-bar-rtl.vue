@@ -115,7 +115,7 @@ export default Vue.component(name, getVueOptions(name));
   }
   .top-row {
     width:100%;
-    padding-top:60px;
+    padding-top:40px;
     padding-bottom:20px;
     span {
       width:100%;
@@ -203,7 +203,7 @@ export default Vue.component(name, getVueOptions(name));
       }
     }
     .skills-block {
-      margin-top:50px;
+      margin-top:20px;
       position:relative;
       .skills {
         margin-bottom:10px;
@@ -232,7 +232,7 @@ export default Vue.component(name, getVueOptions(name));
         .skills-other {
           display:inline-block;
           width:100%;
-          margin-top:20px;
+          margin-top:1-px;
         }
       }
     }

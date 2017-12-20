@@ -14,26 +14,26 @@ experience:
 - company: Laboratório de Inovação Tecnológica em Saúde (LAIS/HUOL/UFRN)
   position: Pesquisador
   timeperiod: desde Julho de 2015
-  description: Trabalho com a concepção, criação e população de bases de dados a partir de diversas fontes, assim como a concepção, manutenção e desenvolvimento de RESTful web services e sistemas web.
+  description: Trabalho com a concepção, criação e população de bases de dados a partir de diversas fontes, assim como a concepção, manutenção e desenvolvimento de RESTful web services e sistemas web
 
 - company: Avviso Sistemas Integrados
   position: Desenvolvedor Web
   timeperiod: Junho de 2017 - Novembro de 2017
-  description: Trabalhei na concepção e desenvolvimento de um sistema web de comunicação.
+  description: Trabalhei na concepção e desenvolvimento de um sistema web de comunicação
 
 - company: IFRN - Câmpus EaD
   position: Auxiliar em manutenção e suporte de computadores
   timeperiod:  Abril de 2014 - Dezembro de 2014
-  description: Instalei e executei a manutenção de computadores, impressoras e programas em geral e prestei suporte aos sistemas de videoconferência utilizados pelo Câmpus.
+  description: Instalei e executei a manutenção de computadores, impressoras e programas em geral e prestei suporte aos sistemas de videoconferência utilizados pelo Câmpus
 
 education:
 - degree: Tecnólogo
   timeperiod: Junho de 2017 - Junho de 2020
-  description: Tecnólogo em Análise e Desenvolvimento de Sistemas, IFRN, Natal, Brasil.
+  description: Tecnólogo em Análise e Desenvolvimento de Sistemas, IFRN, Natal, Brasil
 
 - degree: Técnico Integrado
   timeperiod: Janeiro de 2013 - Janeiro de 2017
-  description: Técnico Integrado em Informática para Internet, IFRN, Natal, Brasil.
+  description: Técnico Integrado em Informática para Internet, IFRN, Natal, Brasil
 
 # skill level goes 0 to 100
 skills:
@@ -61,7 +61,7 @@ skills:
 - name: Linux
   level: 99
 
-knowledge: Falo inglês!
+knowledge: Falo inglês
 
 contact:
   email: daniel.souza.af@gmail.com
