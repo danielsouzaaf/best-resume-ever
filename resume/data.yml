@@ -1,70 +1,73 @@
 /* #*/ export const PERSON = `
 name:
-  first: John
+  first: Daniel
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  last: Souza
+about: Oi, meu nome é Daniel Souza. Sou um desenvolvedor (principalmente web, mas posso trabalhar em outras coisas) que adora as coisas que faz e está sempre interessado em aprender coisas novas, relacionadas com a minha área ou não. Também adoro a sensação de desafio toda vez que uma atividade nova ou um projeto novo me é dado, principalmente aqueles que exigem que eu trabalhe fora da minha zona de conforto e dos meus conhecimentos atuais. Me contrata!
+position: Desenvolvedor
 
 birth:
-  year: 1990
-  location: New York
+  year: 1998
+  location: Natal
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
+- company: Laboratório de Inovação Tecnológica em Saúde (LAIS/HUOL/UFRN)
+  position: Pesquisador
+  timeperiod: desde Julho de 2015
+  description: Trabalho com a concepção, criação e população de bases de dados a partir de diversas fontes, assim como a concepção, manutenção e desenvolvimento de RESTful web services e sistemas web.
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: Avviso Sistemas Integrados
+  position: Desenvolvedor Web
+  timeperiod: Junho de 2017 - Novembro de 2017
+  description: Trabalhei na concepção e desenvolvimento de um sistema web de comunicação.
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: IFRN - Câmpus EaD
+  position: Auxiliar em manutenção e suporte de computadores
+  timeperiod:  Abril de 2014 - Dezembro de 2014
+  description: Instalei e executei a manutenção de computadores, impressoras e programas em geral e prestei suporte aos sistemas de videoconferência utilizados pelo Câmpus.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
+- degree: Tecnólogo
+  timeperiod: Junho de 2017 - Junho de 2020
+  description: Tecnólogo em Análise e Desenvolvimento de Sistemas, IFRN, Natal, Brasil.
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: Técnico Integrado
+  timeperiod: Janeiro de 2013 - Janeiro de 2017
+  description: Técnico Integrado em Informática para Internet, IFRN, Natal, Brasil.
 
 # skill level goes 0 to 100
 skills:
 - name: HTML5
   level: 99
+
 - name: CSS3
   level: 95
+
 - name: JavaScript
   level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
-  level: 80
-- name: ES.Next
-  level: 70
-- name: Docker
+
+- name: PHP
   level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+
+- name: Python
+  level: 80
+
+- name: SQL
+  level: 100
+
+- name: Docker
+  level: 30
+
+- name: Linux
+  level: 99
+
+knowledge: Falo inglês!
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: daniel.souza.af@gmail.com
+  phone: (84) 99605-8219
+  website: danielsouzaaf.github.io
+  github: danielsouzaaf
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
-lang: en
+lang: pt-br
 `
