@@ -55,13 +55,14 @@ skills:
 - name: SQL
   level: 100
 
+- name: R
+  level: 80
+
 - name: Docker
   level: 30
 
 - name: Linux
   level: 99
-
-knowledge: Falo inglês
 
 contact:
   email: daniel.souza.af@gmail.com
